@@ -1,0 +1,3 @@
+
+export const CHANGE_VAULE = 'CHANGE_VAULE';
+export const HANDLEINPUT = 'HANDLEINPUT';
